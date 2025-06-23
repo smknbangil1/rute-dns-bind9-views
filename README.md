@@ -1,8 +1,8 @@
 # forwading dns menggunakan bind9 + views
 # **Panduan Lengkap: Konfigurasi BIND9 sebagai Forwarder dengan Kebijakan Perutean di Ubuntu 24.04**  
 
-**Oleh: [Nama Anda]**  
-**Tanggal: [Tanggal Posting]**  
+**Oleh: PURWANTO**  
+**Tanggal: 2025-06-23**  
 
 BIND9 adalah salah satu server DNS paling populer di dunia. Dalam panduan ini, kita akan mengonfigurasi BIND9 di **Ubuntu Server 24.04** untuk berfungsi sebagai **DNS Forwarder** dengan kebijakan perutean khusus:  
 - **Default Forwarding**: Meneruskan semua permintaan ke DNS utama (`172.16.200.2`).  
